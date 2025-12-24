@@ -1,0 +1,42 @@
+/* Css start */
+body {
+    background-color: #f5f7fa;
+}
+
+.list-group-item.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+/* Small devices(Mobile) start */
+@media(max-width:320px)
+{
+}
+
+@media(min-width:321px) and (max-width:360px)
+{
+}  
+/* Small devices(Mobile) end */
+
+/* small mobile and Medium device start */
+@media(min-width:361px) and (max-width:600px)
+{
+}
+/* small mobile and Medium device end */
+
+/* Medium devices(Tablet) start */
+@media(min-width:601px) and (max-width:768px)
+{
+}
+/* Medium devices(Tablet) end */
+
+/* devices(Tablet & laptop) Start */
+@media(min-width:769px) and (max-width:1024px)
+{
+}
+/* devices(Tablet & laptop) End */
+
+/* devices(Laptop & Desktop) Start */
+@media(min-width:1024px)
+{
+}
+/* devices(Laptop & Desktop) End*/
